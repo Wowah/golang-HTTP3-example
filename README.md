@@ -1,1 +1,1 @@
-# golang-QUIC-example
+# golang-HTTP3-example
